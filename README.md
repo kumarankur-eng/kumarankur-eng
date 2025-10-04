@@ -40,8 +40,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur-kumar-7542a525a&show_icons=true&locale=en&layout=compact" alt="kumarankur-eng" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarankur-eng&show_icons=true&locale=en&layout=compact" alt="kumarankur-eng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-kumar-7542a525a&show_icons=true&locale=en" alt="kumarankur-eng" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarankur-eng&show_icons=true&locale=en" alt="kumarankur-eng" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niteshsharma9889&" alt="Niteshsharma9889" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankur-eng&" alt="kumarankur-eng" /></p>
